@@ -1,0 +1,8 @@
+28/12/2016, 8: 9:41,"Tarik tunai Sebesar Rp 100000"
+28/12/2016, 8:11: 2,"Pembelian Voucher TELKOMSEL Sebesar 75000 ke nomor 085730323430"
+28/12/2016, 9:16:21,"Transfer ke rekening 2210161031 Sebesar 100000"
+28/12/2016, 9:16:21,"Mendapat transfer dari rekening 2210161032 Sebesar 100000"
+28/12/2016, 9:30:24,"Tarik tunai Sebesar Rp 100000"
+28/12/2016,10: 6:17,"Tarik tunai Sebesar Rp 100000"
+28/12/2016,10:15:43,"Tarik tunai Sebesar Rp 0"
+28/12/2016,10:16:35,"Transfer ke rekening 2210161031 Sebesar 7025000"
